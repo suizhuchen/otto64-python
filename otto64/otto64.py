@@ -1,5 +1,7 @@
 import base64
 
+__all__ = ['text_to_otto64', 'otto64_to_text']
+
 ottowords = [
     '三人', '上不去', '上路', '下不来',
     '不值得', '不配', '东厂', '中单',

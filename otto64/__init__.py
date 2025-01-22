@@ -1,1 +1,1 @@
-from otto64 import *
+from .otto64 import *
