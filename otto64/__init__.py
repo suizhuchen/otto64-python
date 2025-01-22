@@ -1,1 +1,1 @@
-from . import otto64
+from otto64 import *
