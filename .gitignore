@@ -1,0 +1,6 @@
+# .gitignore for Python project
+/dist/*
+/otto64.egg-info/*
+/.venv/*
+/test/*
+.gitignore
